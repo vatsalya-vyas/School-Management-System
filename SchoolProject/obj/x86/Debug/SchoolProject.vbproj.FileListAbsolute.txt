@@ -1,0 +1,45 @@
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\bin\Debug\SchoolProject.xml
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Admission.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Home.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.exe
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.xml
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.pdb
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Fee.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.AddTeacher.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Search.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.SearchFee.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Searchteacher.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditAdmission.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditFee.resources
+c:\users\dell\documents\visual studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditTeacher.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.ViewRecord.resources
+C:\Users\dell\Documents\Visual Studio 2010\Projects\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.showfee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.exe
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.xml
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.pdb
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\SchoolProject.pdb
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\SchoolProject.xml
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.AddTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Admission.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditAdmission.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditFee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.EditTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Fee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Form1.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Home.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Resources.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Search.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.SearchFee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.Searchteacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.showfee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.ViewRecord.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.vbproj.GenerateResource.Cache
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\SchoolProject.exe.config
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolProject.ViewTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\School Management System.exe.config

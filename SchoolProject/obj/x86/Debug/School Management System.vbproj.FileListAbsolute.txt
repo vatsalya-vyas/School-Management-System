@@ -1,0 +1,95 @@
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\School Management System.exe.config
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\bin\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.AddTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditFee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Fee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Login.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Resources.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchFee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Searchteacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.AdmissionForm.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditAdmissionForm.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Main.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchAdmission.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewFee.resources
+C:\Users\Vatsalya Vyas\Downloads\SchoolProject\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewAdmissionForm.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\bin\Debug\School Management System.exe.config
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\bin\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\bin\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\bin\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditFee.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Login.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Main.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Resources.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchAdmission.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchFee.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Searchteacher.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewFee.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormTeacher.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormAdmission.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormFee.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditAdmission.resources
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewAdmission.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\bin\Debug\School Management System.exe.config
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\bin\Debug\School Management System.exe
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\bin\Debug\School Management System.pdb
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\bin\Debug\School Management System.xml
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormTeacher.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormAdmission.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditAdmission.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditFee.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditTeacher.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormFee.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Login.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Main.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Resources.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchAdmission.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchFee.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Searchteacher.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewFee.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewAdmission.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewTeacher.resources
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
+C:\Users\Vatsalya Vyas\Documents\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Loading.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\bin\Debug\School Management System.exe.config
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.exe
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.xml
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.pdb
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\bin\Debug\School Management System.exe
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\bin\Debug\School Management System.pdb
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\bin\Debug\School Management System.xml
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormTeacher.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormAdmission.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditAdmission.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditFee.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.EditTeacher.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.FormFee.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Loading.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Login.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Main.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Resources.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchAdmission.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.SearchFee.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Searchteacher.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewFee.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewAdmission.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.ViewTeacher.resources
+D:\Downloads\School Management System Project\School Management System Project\SchoolProject\obj\x86\Debug\School Management System.vbproj.GenerateResource.Cache
+C:\Users\Vatsalya Vyas\Downloads\School Management System Project\SchoolProject\obj\x86\Debug\SchoolManagementSystem_Project.Loading.resources

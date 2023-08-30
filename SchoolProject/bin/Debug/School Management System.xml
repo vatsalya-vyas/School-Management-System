@@ -1,0 +1,240 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SchoolManagementSystem
+</name>
+</assembly>
+<members>
+<member name="P:SchoolManagementSystem_Project.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.edit_teacher_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.EditAdmission_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Editfee_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.EXTRA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.EXTRA2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.EXTRA21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.form_admission">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.form_fee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.form_teacher">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Loading_image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_21">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_210">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_26">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_27">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_28">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.Login_Image_29">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.MAIN_IMAGE_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.main_image_c1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.main_image_c2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.main_image_c3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.search_admission">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.search_fee">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SchoolManagementSystem_Project.My.Resources.Resources.search_teacher">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.LoginDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblAdmissionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblFeeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.TeacherDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.LoginRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblAdmissionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblFeeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.TeacherRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.LoginRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblAdmissionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.tblFeeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet.TeacherRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.LoginTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.tblAdmissionTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.tblFeeTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TeacherTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(SchoolManagementSystem_Project.SchoolProjectDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(SchoolManagementSystem_Project.SchoolProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(SchoolManagementSystem_Project.SchoolProjectDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.UpdateAll(SchoolManagementSystem_Project.SchoolProjectDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:SchoolManagementSystem_Project.SchoolProjectDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
